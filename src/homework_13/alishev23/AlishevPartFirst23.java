@@ -1,6 +1,6 @@
-package homework_13;
+package homework_13.alishev23;
 
-public class Alishev23 {
+public class AlishevPartFirst23 {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Hello");
         System.out.println(sb.toString());
