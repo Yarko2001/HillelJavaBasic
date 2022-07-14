@@ -1,4 +1,4 @@
-package homework_16.forest.animals;
+package homework_16.alishev27.forest.animals;
 
 public class Squirrel extends Animal {
     @Override

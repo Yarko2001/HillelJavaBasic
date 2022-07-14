@@ -1,9 +1,9 @@
-package homework_16;
+package homework_16.alishev27;
 
-import homework_16.forest.animals.Animal;
-import homework_16.forest.animals.Bear;
-import homework_16.forest.trees.Oak;
-import homework_16.forest.trees.Tree;
+import homework_16.alishev27.forest.animals.Animal;
+import homework_16.alishev27.forest.animals.Bear;
+import homework_16.alishev27.forest.trees.Oak;
+import homework_16.alishev27.forest.trees.Tree;
 
 public class Main {
     public static void main(String[] args) {
